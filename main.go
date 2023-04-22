@@ -15,6 +15,7 @@ func createListener() (l net.Listener, close func()) {
 		_ = l.Close()
 	}
 }
+
 func main() {
 	l, close := createListener()
 	defer close()
