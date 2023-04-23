@@ -1,2 +1,2 @@
-# planlos_go
-Backend Software for the planlos section
+# planlos_go 
+Index Server für die Planlos-App
